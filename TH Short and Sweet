@@ -1,0 +1,77 @@
+<div class="container-fluid p-3 pt-4 pb-0 mt-2 mb-2" style="max-width: 1000px; max-height: 700px; background: url('BACKGROUND IMAGE'); background-size: cover; border-radius: 20px;">
+<!--- ---> 
+<!--- NAMEPLATE ---> 
+<!--- --->
+<div style="margin:0 auto;background: white; opacity: 0.8rem; text-align: center; font-size: 1.8rem; border-radius: 10px; 
+margin-bottom: 10px;opacity:0.9;color:#6A443A;border-radius:40px 40px 0px 0px;">NAME OF YA CRITTER</div>
+<!--- ---> 
+<!--- GENERAL ---> 
+<!--- --->
+<div class="row no-gutters">
+<div class="col-6">
+<div class="mb-3 mt-2 pb-1 pl-3 pr-3 pt-3" style="background-color: white; border-radius: 12px; font-size: 16px; color: #6A443A; opacity: 0.8;">
+<hr style="padding: 2px;text-align:center; margin-bottom: 1px;width:400px;margin:0 auto">
+<div class="pb-1"  style="text-align:center;font-size:1.1rem;"><b><i class="fas fa-info-circle"></i> general</b></div>
+<hr style="padding: 2px;text-align:center; margin-bottom: 1px;width:400px;margin:0 auto">
+<table class="table w-100" style="border: none; font-size: 0.8rem;">
+<tbody>
+<tr>
+<td style="width: 20px; text-align: right;"><strong>ALIAS</strong></td>
+<td>&nbsp;</td>
+<td style="text-align: left;">alias</td>
+<td style="width: 30px; text-align: right;"><strong>BIRTHDAY</strong></td>
+<td>&nbsp;</td>
+<td style="text-align: left;">birthdayy</td>
+</tr>
+<tr>
+<td style="width: 20px; text-align: right;"><strong>AGE</strong></td>
+<td>&nbsp;</td>
+<td style="text-align: left;">age</td>
+<td style="width: 30px; text-align: right;"><strong>HEIGHT</strong></td>
+<td>&nbsp;</td>
+<td style="text-align: left;">height</td>
+</tr>
+<tr>
+<td style="width: 20px; text-align: right;"><strong>GENDER</strong></td>
+<td>&nbsp;</td>
+<td style="text-align: left;">gender</td>
+<td style="width: 30px; text-align: right;"><strong>HOME</strong></td>
+<td>&nbsp;</td>
+<td style="text-align: left;">home</td>
+</tr>
+<tr>
+<td style="width: 20px; text-align: right;"><strong>ORIENTATION</strong></td>
+<td>&nbsp;</td>
+<td style="text-align: left;">pan</td>
+<td style="width: 30px; text-align: right;"><strong>ROLE</strong></td>
+<td>&nbsp;</td>
+<td style="text-align: left;">job</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--- ---> 
+<!--- BIOGRAPHY ---> 
+<!--- --->
+<div class="p-3 mb-3 m-1" style="background-color: white; border-radius: 12px; color: #6A443A; opacity: 0.8;height:220px;overflow: auto;">
+<hr style="padding: 2px;text-align:center; margin-bottom: 1px;width:400px;margin:0 auto">
+<div class="pb-1"  style="text-align:center;font-size:1.1rem;"><b><i class="fas fa-book"></i> biography</b></div>
+<hr style="padding: 2px;text-align:center; margin-bottom: 1px;width:400px;margin:0 auto">
+<p style="margin: 3px; padding: 3px; text-align: center; font-size: 0.7rem;">trait / trait / trait / trait</p>
+<p style="text-align: left; font-size: 0.9rem;">"Granny&rsquo;s implicit belief that everything should get out of her way extended to other witches, very tall trees and, on occasion, mountains."</p>
+<p style="text-align: left; font-size: 0.9rem;">This box scrolls automatically!</p>
+</div>
+</div>
+<!--- ---> 
+<!--- SIDE IMAGE ---> 
+<!---
+If you want just the headshot of your critter on the right, 
+remove "background-size:contain" line from here. --->
+<!--- --->
+<div class="col-6 p-1 mt-1" style="background: url('IMAGE LINK') no-repeat; background-position: top center;background-size:contain">&nbsp;</div>
+</div>
+</div>
+<!--- --->
+<!--- CREDITS --->
+<!--- --->
+<p style="float: right;font-size:0.7rem;"><a href="http://toyhou.se/Lechet"><i class="fas fa-code">&nbsp;</i>code</a> / <a href="BACKGROUND CREDIT LINK"><i class="fas fa-images">&nbsp;</i>bg</a></p>
